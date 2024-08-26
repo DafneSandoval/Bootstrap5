@@ -1,0 +1,9 @@
+@media (max-width: 576px) {
+    .list-group-item, footer h3, footer p { text-align: center;}
+}
+h1 {text-align: center;}   
+p {text-align: center;} 
+h1, .carrusel, ul, footer, p { margin: 20px 0px 20px 0px;}
+.custom-active-bg { background-color: #667BC6; color: whitesmoke;
+}
+    
